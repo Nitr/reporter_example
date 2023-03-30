@@ -72,3 +72,4 @@ group :test do
 end
 
 gem 'reporter', git: 'git@github.com:Nitr/reporter.git'
+gem 'pagy'
