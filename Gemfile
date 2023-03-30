@@ -73,3 +73,4 @@ end
 
 gem 'reporter', git: 'git@github.com:Nitr/reporter.git'
 gem 'pagy'
+gem "caxlsx", "~> 3.3"

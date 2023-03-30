@@ -31,3 +31,8 @@
 
 en:
   hello: "Hello world"
+
+  activerecord:
+    models:
+      reports/goods_rating: Good Ratings
+      reports/user_orders: User Ordering
